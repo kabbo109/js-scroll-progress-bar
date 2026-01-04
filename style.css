@@ -1,0 +1,20 @@
+body{
+  margin:0;
+  font-family:Arial;
+  background:#0f172a;
+  color:white;
+}
+
+#progress{
+  position:fixed;
+  top:0;
+  left:0;
+  height:5px;
+  width:0%;
+  background:#22c55e;
+  z-index:100;
+}
+
+.content{
+  padding:40px;
+}
